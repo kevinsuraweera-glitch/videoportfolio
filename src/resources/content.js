@@ -55,7 +55,7 @@ const home = {
   label: 'Home',
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Unleash your story in post production</>,
+  headline: <>Where Vision Meets Precision in Post Production</>,
   featured: {
     display: false,
     title: (
